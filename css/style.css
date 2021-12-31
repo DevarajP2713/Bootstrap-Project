@@ -1,0 +1,141 @@
+.banner-sec{
+    background-image: url('../image/hero-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right top;
+    height: 450px;
+    width: 100%;
+}
+.nav-link{
+    color: #000;
+}
+.button-sec{
+    padding: 5px 30px;
+}
+.navbar-brand:hover{
+    color: #5fcf80;
+}
+.nav-item a:hover{
+    color: #5fcf80;
+}
+.button-sec:hover{
+    background-color: #5fcf80;
+    color: white;
+}
+.header-sec{
+    color: white;
+}
+.navbar-brand{
+    font-size: 30px;
+    color: #5fcf80;
+}
+.banner-sec{
+    font-family: 'Poppins', sans-serif;
+}
+.header h4,
+.header a{
+    font-weight: bold;
+}
+.about-img img{
+    max-width: 100%;
+    height: auto;
+}
+.ico-sec{
+    color: #5fcf80;
+}
+.about-sec{
+    font-style: italic;
+}
+.about-sec-1{
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+}
+.about-sec-2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+.statistics-sec{
+    background-color: #f6f7f6;
+}
+.statistics-sec h4{
+    font-size: 48px;
+    font-weight: bold;
+    color: #5fcf80;
+    font-family: 'Open Sans', sans-serif;
+}
+.statistics-sec h5{
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+.mentor-sec{
+    background-color: #5fcf80;
+}
+.mentor-sec h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 34px;
+}
+.mentor-sec p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+}
+.mentor-sec button{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #91e0a9;
+    border-color: #91e0a9;
+    padding: 5px 15px;
+    color: white;
+}
+.mentor-sec button:hover{
+    background-color: white;
+    border-color:  white;
+    color: black;
+}
+.mentor-sec-1 i{
+    font-size: 32px;
+    padding: 18px;
+    color: #5fcf80;
+    margin-bottom: 30px;
+    background: #ecf9f0;
+    border-radius: 50px;
+}
+.mentor-sec-2{
+    border: 2px solid #ecf9f0;
+    padding: 0px 10px;
+    width: 230px;
+}
+.mentor-sec-2 h4{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.mentor-sec-2 p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #aaaaaa;
+}
+@media(min-width:992px) and (max-width:1199px){
+    .mentor-sec-2{
+        width: 554px;
+    }
+}
+.list-sec h4{
+    border: 1px solid #c7c7c7;
+}
+.list-sec a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+.list-sec h4:hover{
+    border: 1px solid #5fcf80;
+    color: #5fcf80;
+}
+.list-sec a:hover{
+    color: #5fcf80;
+}
